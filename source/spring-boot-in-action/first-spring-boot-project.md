@@ -27,4 +27,4 @@
 5. 项目结构如下所示
     ![First Spring Boot Project](assets/images/first-spring-boot-project.png)
 
-6. 示例代码：[https://github.com/aboutprogramming/spring-boot-learning/tree/master/first-spring-boot-project](https://github.com/aboutprogramming/spring-boot-learning/tree/master/first-spring-boot-project)
+6. 下载示例代码：[https://github.com/aboutprogramming/bulk/releases/tag/v0.1.0](https://github.com/aboutprogramming/bulk/releases/tag/v0.1.0)
