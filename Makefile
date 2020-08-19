@@ -1,7 +1,7 @@
 .PHONY: build
 
 SOURCE := "./source"
-DIST := "./dist"
+DIST := "./docs"
 
 build:
 	@echo "building source = ${SOURCE} dist = ${DIST}"
