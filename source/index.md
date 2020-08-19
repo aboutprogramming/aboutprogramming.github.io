@@ -11,3 +11,5 @@
 ## 散装Spring Boot实践笔记
 
 1. [创建第一个Spring Boot项目](./spring-boot-in-action/first-spring-boot-project.html) **2020-08-19**
+2. [Spring Boot版Hello World](./spring-boot-in-action/spring-boot-hello-world.html) **2020-08-19**
+
