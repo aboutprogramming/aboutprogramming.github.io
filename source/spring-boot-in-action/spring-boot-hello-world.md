@@ -1,6 +1,6 @@
 # [编程这点事](https://aboutprogramming.net)
 
-![About Programming](../assets/images/mp.png)
+![About Programming](https://s1.ax1x.com/2020/08/20/d3rQ3V.png)
 
 您好，欢迎来到**编程这点事**站点。扫码关注公众号获取更多精彩内容。
 
